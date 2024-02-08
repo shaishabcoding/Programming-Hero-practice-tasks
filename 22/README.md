@@ -6,7 +6,7 @@ Find the lowest number in the array below.
 **input :**
 
 ```javascript
-const heights2 = [167, 190, 120, 165, 137];
+const heights = [167, 190, 120, 165, 137];
 ```
 
 **output :**
@@ -22,7 +22,7 @@ Find the friend with the smallest name.
 **input :**
 
 ```javascript
-const heights2 = ['rahim', 'robin', 'rafi', 'ron', 'rashed'];
+const names = ['rahim', 'robin', 'rafi', 'ron', 'rashed'];
 ```
 
 **output :**
