@@ -14,6 +14,8 @@ const heights = [167, 190, 120, 165, 137];
 120
 ```
 
+**[Click here to see answer](https://github.com/shaishabcoding/Programming-Hero-practice-tasks/blob/main/22/lowest_number.js)**
+
 ---
 
 ### Task-2: 
@@ -31,10 +33,15 @@ const names = ['rahim', 'robin', 'rafi', 'ron', 'rashed'];
 ron
 ```
 
+**[Click here to see answer](https://github.com/shaishabcoding/Programming-Hero-practice-tasks/blob/main/22/smallest_name.js)**
+
 ---
 
 ### Task-3: 
-Your task is to calculate the `total budget` required to buy electronics:
+Your task is to calculate the `total budget` required to buy electronics.
+
+Write a JavaScript function named `calculateElectronicsBudget` that takes in the number of `laptop, tablets, and mobile` and returns the `total money required`.
+
 
 **input :**
 
@@ -52,8 +59,7 @@ const
 285000
 ```
 
-
-Write a JavaScript function named `calculateElectronicsBudget` that takes in the number of `laptop, tablets, and mobile` and returns the `total money required`.
+**[Click here to see answer](https://github.com/shaishabcoding/Programming-Hero-practice-tasks/blob/main/22/total_budget.js)**
 
 ---
 ### Task-4: 
@@ -103,6 +109,8 @@ const phones = [
 58167
 ```
 
+**[Click here to see answer](https://github.com/shaishabcoding/Programming-Hero-practice-tasks/blob/main/22/average_price.js)**
+
 
 ---
 ### Task-5: (Hard)
@@ -145,3 +153,5 @@ const employees = [
 ```
 149000
 ```
+
+**[Click here to see answer](https://github.com/shaishabcoding/Programming-Hero-practice-tasks/blob/main/22/total_salary.js)**
